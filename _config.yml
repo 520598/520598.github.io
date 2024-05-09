@@ -186,15 +186,15 @@ font:
   # Fallback to `global` font settings.
   posts:
     external: true
-    family:
+    family: Noto Serif Simplified Chinese
 
   # Font settings for Logo
   # Fallback to `global` font settings.
   # The `size` option use `px` as unit
   logo:
     external: true
-    family:
-    size:
+    family: Oswald
+    size: 24
 
   # Font settings for <code> and code blocks.
   codes:
